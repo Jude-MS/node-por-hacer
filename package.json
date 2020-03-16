@@ -1,0 +1,19 @@
+{
+  "name": "node_rapid",
+  "version": "1.0.0",
+  "description": "Learn NodeJs from scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Jimcool San",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.0"
+  }
+}
